@@ -4,8 +4,8 @@ title: Heisenberg
 
 ---
 # About Me
-I am an engineering student who likes to play with data and dig deep into it to draw infernces and come up with unique solutions.
-I believe in open source libraries and that everyone must get access to its content while making necessary changes. Currently I am working with YellowBrick, a data visualization library which aids in exploratory data analysis for a deploying a successful machine learning model.
+I am an engineering student who likes to play with data and dig deep into it to draw inferences and come up with unique solutions.
+I believe in open source libraries and that everyone must get access to its content while making necessary changes. Currently, I am working with YellowBrick, a data visualization library which aids in exploratory data analysis for deploying a successful machine learning model.
 
 # BLOGS
 
