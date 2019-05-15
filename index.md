@@ -1,6 +1,6 @@
 ---
 layout: new
-title: Heisenberg
+title: Heisenberg's blog
 
 ---
 # About Me
