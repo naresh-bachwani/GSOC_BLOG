@@ -1,0 +1,11 @@
+theme: jekyll-theme-cayman
+title: Heisenberg
+description: >- # this means to ignore newlines until "baseurl:"
+  I am Naresh Bachwani(alias Heisenberg), a junior undergrad in NIT Hamirpur. This year I got selected to work on a project with YellowBrick 
+  under NumFOCUS umbrella, for Google Summer of Code. This website is dedicated to share my experience and activities throughout 
+  the GSOC period.
+github:
+  is_project_page: true
+  repository_url: https://github.com/DistrictDataLabs/yellowbrick
+  get_started_url: https://www.scikit-yb.org/en/latest/quickstart.html
+  this_repository_url: https://github.com/naresh-bachwani/new_blog
